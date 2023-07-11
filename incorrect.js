@@ -1,7 +1,5 @@
 //incorrect
 
-//correct
-
 import React, useContext from "react";
 
 const MyContext = React.createContext();
